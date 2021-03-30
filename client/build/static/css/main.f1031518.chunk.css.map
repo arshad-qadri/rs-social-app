@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,OACE,wBACF,CACA,MACE,aACF,CAEA,OACE,WAAY,CACZ,kBACF","file":"main.f1031518.chunk.css","sourcesContent":[".color {\r\n  background-color: aliceblue;\r\n}\r\n.logo {\r\n  color: crimson;\r\n}\r\n\r\n.posts {\r\n  margin: 30px;\r\n  border-radius: 20px;\r\n}\r\n"]}

@@ -1,0 +1,10 @@
+.landing {
+  overflow: hidden;
+  /* margin-top: -20px; */
+  min-height: 100vh;
+  width: 100%;
+  background: linear-gradient(18deg, #f0f, #f0fff0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

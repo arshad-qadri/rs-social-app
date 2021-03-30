@@ -1,0 +1,22 @@
+.login {
+  width: 100% !important;
+  height: 100vh;
+  background: linear-gradient(#fff, blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-inner {
+  height: auto !important;
+}
+.login-inner h3 i {
+  margin-right: 10px;
+}
+@media only screen and (max-width: 768px) {
+  .login-inner h1 {
+    font-size: 2.5em;
+  }
+  .login-inner h3 {
+    font-size: 1.1em;
+  }
+}
